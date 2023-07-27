@@ -6,4 +6,4 @@ Currently working on [Instant Images](https://github.com/dcooney/instant-images)
 
 ___
 
-**Hiring** - I'm looking for a self-starting developer to work on various WordPress plugins - if you're looking for work, let's chat (✉️ darren [at] connekthq.com)
+**Hiring** - I'm looking for a self-starting developer to work alongside me on various WordPress plugins - if that's you, let's chat (📩 darren [at] connekthq.com)
