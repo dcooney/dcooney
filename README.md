@@ -1,10 +1,15 @@
-![welcome](https://github.com/dcooney/dcooney/assets/428624/14b9e78a-d412-4d64-8587-5f265bc5c4b1)
+![github-welcome](https://github.com/dcooney/dcooney/assets/428624/e4d95c3d-63e3-4ee6-bcb7-f3407f98c072)
 
-### Hi, I'm Darren 👋
+## Hi, I'm Darren 👋
 
-#### WordPress developer, frontend engineer, and 3x girl dad based in Toronto, Canada 🇨🇦
+**WordPress developer, frontend engineer, and 3x girl dad based in Toronto, Canada** 🇨🇦
 
-Currently working on [Instant Images](https://github.com/dcooney/instant-images), [Ajax Load More](https://github.com/dcooney/ajax-load-more), and a few other projects for my studio, [Connekt Media](https://connekthq.com/).
+Currently working on:
+
+- [Instant Images](https://github.com/dcooney/instant-images)
+- [Ajax Load More](https://github.com/dcooney/ajax-load-more)
+- [React NPM Starter](https://github.com/dcooney/react-npm-starter)
+- ... and other projects for my studio, [Connekt Media](https://connekthq.com/).
 
 <!--
 
