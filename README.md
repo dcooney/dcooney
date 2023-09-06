@@ -1,4 +1,4 @@
-![github-welcome](https://github.com/dcooney/dcooney/assets/428624/914254a7-d41a-41c5-9303-e759a6076024)
+![github-welcome-blue](https://github.com/dcooney/dcooney/assets/428624/ef7e7a8a-b719-427a-83a3-5ead1415feac)
 
 WordPress developer, frontend engineer, and 3x girl dad from Toronto, Canada 🇨🇦
 
