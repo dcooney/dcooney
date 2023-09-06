@@ -1,6 +1,4 @@
-![github-welcome](https://github.com/dcooney/dcooney/assets/428624/e4d95c3d-63e3-4ee6-bcb7-f3407f98c072)
-
-## Hi, I'm Darren 👋
+![my-github-homepage](https://github.com/dcooney/dcooney/assets/428624/383858c2-f56a-4067-9f66-5e9865381181)
 
 **WordPress developer, frontend engineer, and 3x girl dad based in Toronto, Canada** 🇨🇦
 
