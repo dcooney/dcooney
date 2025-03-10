@@ -1,6 +1,6 @@
 ![github-welcome-text](https://github.com/dcooney/dcooney/assets/428624/e6b47aa0-0cd4-4a1d-a5ce-1c821e720ac0)
 
-👋 I'm Darren - Full-stack developer and 3x girl dad from Toronto, Canada 🇨🇦
+👋 I'm Darren, a full-stack developer and 3x girl dad from Toronto, Canada 🇨🇦
 
 Currently working on:
 
